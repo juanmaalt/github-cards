@@ -36,3 +36,54 @@
     transform: rotate(360deg);
   }
 }
+
+/*Added by me*/
+.github-profile {
+  display: inline-flex;
+  margin: 1rem;
+  background-color:rgba(100, 167, 187, 0.3);
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.github-profile img {
+  max-width: 75px;
+  border-radius: 20px;
+}
+
+.github-profile .info {
+  display: inline-block;
+  margin-left: 12px;
+  color: antiquewhite;
+}
+
+.info .name {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.info .login {
+  font-size: 0.9rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+form {
+	border: none;
+  padding: 2rem;
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  height: 30px;
+}
+
+.header {
+	text-align: center;
+  font-size: 1.5rem;
+  margin: 2rem;
+  font-weight: bold;
+  color: antiquewhite;
+}
