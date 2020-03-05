@@ -1,5 +1,5 @@
 ## Github Cards
-Lightweight React App that coonects to GitHub API to retrieve users data.
+Lightweight React App that coonects to GitHub API to retrieve users data.<br>
 This App shows users data in a card format, if you click on an user it will redirect you to the user's repositories.
 
 ## Available Scripts
