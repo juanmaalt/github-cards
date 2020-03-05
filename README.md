@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Github Cards
+Lightweight React App that coonects to GitHub API to retrieve users data.
+This App shows users data in a card format, if you click on an user it will redirect you to the user's repositories.
 
 ## Available Scripts
 
